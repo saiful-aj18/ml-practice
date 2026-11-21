@@ -7,6 +7,7 @@ Small machine learning practice notebooks — learning ML step by step in Python
 - `ML.ipynb` — data preparation (missing values, one-hot encoding, scaling), training a simple linear regression model to predict salary, and visualizing actual vs predicted salaries.
 - `lesson-03-train-test-split.ipynb` — train-test split (Lesson 3): split the prepared data into train/test sets and evaluate the linear regression model on unseen data.
 - `lesson-04-linear-regression.ipynb` — linear regression (Lesson 4): fit a model on age only, read the slope (coef_) and intercept, and predict salary at age 28.
+- `lesson-05-cost-function-gradient-descent.ipynb` — cost function & gradient descent (Lesson 5): gradient descent by hand for linear regression; with learning rate 0.0001 it converges very slowly (m ≈ 1.46, MSE ≈ 1.12 after 1,000 steps).
 
 ## Run it
 

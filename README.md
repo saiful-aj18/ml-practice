@@ -8,6 +8,7 @@ Small machine learning practice notebooks — learning ML step by step in Python
 - `lesson-03-train-test-split.ipynb` — train-test split (Lesson 3): split the prepared data into train/test sets and evaluate the linear regression model on unseen data.
 - `lesson-04-linear-regression.ipynb` — linear regression (Lesson 4): fit a model on age only, read the slope (coef_) and intercept, and predict salary at age 28.
 - `lesson-05-cost-function-gradient-descent.ipynb` — cost function & gradient descent (Lesson 5): gradient descent by hand for linear regression; with learning rate 0.0001 it converges very slowly (m ≈ 1.46, MSE ≈ 1.12 after 1,000 steps).
+- `lesson-06-overfitting-underfitting.ipynb` — overfitting / underfitting (Lesson 6): polynomial regression at degrees 1, 3 and 15; train R² rises with degree while test R² collapses at degree 15 — the overfitting demo.
 
 ## Run it
 

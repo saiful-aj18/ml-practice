@@ -11,6 +11,7 @@ Small machine learning practice notebooks — learning ML step by step in Python
 - `lesson-06-overfitting-underfitting.ipynb` — overfitting / underfitting (Lesson 6): polynomial regression at degrees 1, 3 and 15; train R² rises with degree while test R² collapses at degree 15 — the overfitting demo.
 - `lesson-07-logistic-regression.ipynb` — logistic regression (Lesson 7): classification with sigmoid + probability; breast cancer dataset, accuracy ≈ 0.967 with test_size=0.7.
 - `lesson-08-evaluation-metrics.ipynb` — evaluation metrics (Lesson 8): confusion matrix + classification report on the Lesson 7 model; accuracy ≈ 0.96, precision 0.97/0.95 and recall 0.91/0.99 per class (test_size=0.2).
+- `lesson-09-decision-tree.ipynb` — decision tree (Lesson 9): classification with Gini impurity; Iris dataset, DecisionTreeClassifier with max_depth=3, test accuracy 1.0.
 
 ## Run it
 

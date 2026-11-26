@@ -12,6 +12,7 @@ Small machine learning practice notebooks — learning ML step by step in Python
 - `lesson-07-logistic-regression.ipynb` — logistic regression (Lesson 7): classification with sigmoid + probability; breast cancer dataset, accuracy ≈ 0.967 with test_size=0.7.
 - `lesson-08-evaluation-metrics.ipynb` — evaluation metrics (Lesson 8): confusion matrix + classification report on the Lesson 7 model; accuracy ≈ 0.96, precision 0.97/0.95 and recall 0.91/0.99 per class (test_size=0.2).
 - `lesson-09-decision-tree.ipynb` — decision tree (Lesson 9): classification with Gini impurity; Iris dataset, DecisionTreeClassifier with max_depth=3, test accuracy 1.0.
+- `lesson-10-random-forest.ipynb` — random forest (Lesson 10): ensemble of decision trees with bagging + majority vote; Iris dataset, 5-fold CV — Decision Tree 0.953 vs Random Forest (100 trees) 0.967; n_estimators 10/100/500 all 0.967; most important feature petal length.
 
 ## Run it
 
